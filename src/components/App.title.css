@@ -1,0 +1,9 @@
+.Title {
+    box-sizing: border-box;
+    width: 100%;
+    color: #d04764; font-family: ‘Lobster’, cursive; font-size: 36px; font-weight: normal; line-height: 48px;  text-shadow: 1px 0 0 #fff;
+    height: 140px;
+    display: inline-block;
+    justify-content: center;
+    background: linear-gradient(to top, rgba(227, 214, 14, 0.56) 20%, #48e30b 50%, #8d28ab 80%);
+}
